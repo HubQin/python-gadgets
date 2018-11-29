@@ -1,0 +1,4 @@
+a -> an
+be -> are,is,am,being
+make -> making,made
+work -> works

@@ -10,3 +10,6 @@ A collection of my python excise code or gadgets
 包含文件main.py(主文件，用于下载电子书), get_ip.py（用于获取代理IP）
 * 实现电子书按指定页数范围下载或指定关键词下载
 * 实现自动登录和验证码自动识别
+
+## words-count-with-lemmatized
+使用分词表进行分词还原后统计词频，同时去除常见高频单词。
