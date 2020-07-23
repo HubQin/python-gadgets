@@ -16,3 +16,9 @@ A collection of my python excise code or gadgets
 
 ## phoenix.py
 凤凰版春季中小学教材下载
+
+## pep_book.py
+人教版春季中小学教材下载
+
+## word_count.py
+基于nltk的词频统计
